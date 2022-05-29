@@ -1,0 +1,8 @@
+{
+  "name": "Arts and Culture",
+  "description": "This person has experience in a field of Music/Theatre/Opera/Painting etc.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/art.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["arts", "culture"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

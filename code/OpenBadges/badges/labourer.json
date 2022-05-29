@@ -1,0 +1,8 @@
+{
+  "name": "Labourer",
+  "description": "This person has experience in Labouring.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/education.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/labouring.php",
+  "tags": ["labourer", "worker"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

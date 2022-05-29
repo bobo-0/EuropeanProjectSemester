@@ -1,0 +1,8 @@
+{
+  "name": "Bicycle Repair",
+  "description": "This person is experienced with bicycle repairs.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/bicycle.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["repair", "bicycle"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

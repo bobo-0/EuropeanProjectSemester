@@ -1,0 +1,8 @@
+{
+  "name": "Polite",
+  "description": "This person has a very friendly and welcoming attitude and treats it’s surrounding with respect.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/polite.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["polite", "respectful"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

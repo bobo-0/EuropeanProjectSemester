@@ -1,0 +1,8 @@
+{
+  "name": "Food Services/Catering/Eating",
+  "description": "This person has experience in preparing a meal and assisting in the kitchen.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/food.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["catering", "eating"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Punctual",
+  "description": "This person has been on time.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/punctual.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["on time", "punctual"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

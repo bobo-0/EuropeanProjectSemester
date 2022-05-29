@@ -1,0 +1,8 @@
+{
+  "name": "Admin",
+  "description": "This person has experience in Organizing/Advising/Supporting an administrative Task/Event.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/consultant.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["administrator", "consultant"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

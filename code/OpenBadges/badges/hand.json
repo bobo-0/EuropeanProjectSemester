@@ -1,0 +1,8 @@
+{
+  "name": "Handyman",
+  "description": "This person is particularly good in a specific craftsmanship and has experience within a specific field of Manufacturing/Crafts/Hobbies.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/craft.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["handyman", "handcrafting"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "a1b2c2c485",
+  "recipient": {
+    "type": "email",
+    "identity": "zildjianremo@gmail.com",
+    "hashed": false
+  },
+  "issuedOn":  1388234400,
+  "badge": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/it.json",
+  "verify": {
+    "type": "hosted",
+    "url": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/assertion2.json"
+  }
+}

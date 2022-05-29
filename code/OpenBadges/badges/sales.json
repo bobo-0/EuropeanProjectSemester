@@ -1,0 +1,8 @@
+{
+  "name": "Sales",
+  "description": "This person has experience in sales.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/sales.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["sales", "public relations"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

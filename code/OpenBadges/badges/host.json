@@ -1,0 +1,8 @@
+{
+  "name": "Host/Hostess",
+  "description": "This person has experiences in Hosting/Assisting in Conventions/Events.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/host.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["host", "hostess"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

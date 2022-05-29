@@ -1,0 +1,8 @@
+{
+  "name": "Orderly",
+  "description": "This person is a clean worker and will make sure that there is no mess left behind.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/orderly.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["clean", "orderly"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

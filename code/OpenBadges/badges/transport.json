@@ -1,0 +1,8 @@
+{
+  "name": "Transport/Warehousing",
+  "description": "This person has experience in Moving/Transporting/Warehousing.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/transport.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["sales", "public relations"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

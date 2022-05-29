@@ -1,0 +1,8 @@
+{
+  "name": "Teaching/Education",
+  "description": "This person has experience in Teaching/Education and sharing knowledge.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/education.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["teaching", "education"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

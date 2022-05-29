@@ -1,0 +1,8 @@
+{
+  "name": "Awesome Robotics Badge",
+  "description": "For doing awesome things with robots that people think is pretty great.",
+  "image": "http://moerwijk.tlamatiliztli.net/OpenBadges/img/bad.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/OpenBadges/explain.php",
+  "tags": ["robots", "awesome"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

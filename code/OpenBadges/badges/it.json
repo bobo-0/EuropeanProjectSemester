@@ -1,0 +1,8 @@
+{
+  "name": "IT Expert",
+  "description": "This person has experience in the field of information Technologies/Computer Science/Software engineering.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/computer.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["computer", "IT"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

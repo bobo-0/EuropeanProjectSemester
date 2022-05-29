@@ -1,0 +1,8 @@
+{
+  "name": "Mechanic",
+  "description": "This person is experienced with automotive.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/mechanic.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["mechanic", "cars"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

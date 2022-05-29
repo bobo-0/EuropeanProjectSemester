@@ -1,0 +1,8 @@
+{
+  "name": "Reliable",
+  "description": "This person has attended all jobs.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/reliable.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["trusted", "reliable"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

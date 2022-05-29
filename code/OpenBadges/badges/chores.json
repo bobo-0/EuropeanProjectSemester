@@ -1,0 +1,8 @@
+{
+  "name": "Chores/Cleaning",
+  "description": "This person can help around the house with cleaning and other basic chores.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/cleaning.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/criteria.php",
+  "tags": ["chores", "clean"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}

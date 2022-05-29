@@ -1,0 +1,8 @@
+{
+  "name": "Buddy",
+  "description": "This person has experience with patients/elderly people/people with disabilities and assisting them in their daily life.",
+  "image": "http://moerwijk.tlamatiliztli.net/img/badges/education.png",
+  "criteria": "http://moerwijk.tlamatiliztli.net/health.php",
+  "tags": ["health", "buddy"],
+  "issuer": "http://moerwijk.tlamatiliztli.net/OpenBadges/badges/organization.json"
+}
